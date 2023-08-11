@@ -44,7 +44,7 @@ nav ul li:hover{
     margin : 25px auto;
     width: 70%;
     border-radius: 30px;
-    background-image: url('/logos/bg1.jpg');
+    background-image: url('logos/bg1.jpg');
 }
 .songlist h2{
     padding: 15px;
